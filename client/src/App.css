@@ -55,6 +55,7 @@
   padding: 0.5rem;
   border: 1px solid #ccc;
   border-radius: 0.25rem;
+  box-sizing: border-box;
 }
 
 .post-list__item__content {
